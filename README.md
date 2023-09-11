@@ -20,4 +20,6 @@ SQL, Microsoft Excel, PowerBI, Python, R, Tableau, Git
 
 --------------------------------------------------------------------------------------------
 Lastest Blog posts
+--------------------------------------------------------------------------------------------
 https://medium.com/@talk2leke2004/organizations-need-to-use-their-data-for-insight-or-become-obsolete-b66c3a37b8a5
+https://medium.com/@talk2leke2004/what-sets-big-organization-apart-when-they-use-data-982f6d9b586f
